@@ -7,7 +7,7 @@
 
 //Now lets create a vector of ones in Rust:
 
-fn main{
+fn main(){
   let vector_omes : Vec<i32> = vec![1;5];
   println!("A vector filled with ones in Rust {:?}",vector_ones);
 
